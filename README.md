@@ -1,7 +1,9 @@
 
+![download (1)](https://github.com/user-attachments/assets/fc530f45-51e0-45b3-9269-0ccade1a0f24)
+
 # 👋 Hi, I'm Maroua AKA Sheellyy!
-👩🏻‍💻 Computer Science student sharing about my journey and learnings in tech<br/>
-💭 Currently learning about web development<br/>
+- 👩🏻‍💻 Computer Science student sharing about my journey and learnings in tech<br/>
+- 💭 Currently learning about web development<br/>
 - 📫 How to reach me: marouamekimene@gmail.com
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=marouamek&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
