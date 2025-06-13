@@ -1,7 +1,7 @@
 
 ![download (1)](https://github.com/user-attachments/assets/fc530f45-51e0-45b3-9269-0ccade1a0f24)
 
-# 👋 Hi, I'm Maroua AKA Sheellyy!
+# 👋 Hi, I'm Maroua!
 - 👩🏻‍💻 Computer Science student sharing about my journey and learnings in tech<br/>
 - 💭 Currently learning about web development<br/>
 - 📫 How to reach me: marouamekimene@gmail.com
